@@ -1,0 +1,2 @@
+OrderServiceImpl{sandwiches=[Sandwich{bread='White', price=5.0, size=4.0, toasted=true, toppings=[Meat{meatExtra=true}], sauces=[]}], drinks=[], chips=[]}
+ total = 6.5

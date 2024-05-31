@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f73d4e6b-a0e9-46e1-b26b-68742beb967a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samuel sandwich order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Chips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Meat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/RegularToppings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Sauces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Sides.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Toppings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/ReceiptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/MainView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hEbOhBrX1JZQPsCekk2p0C92PI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/monsa/pluralsight/java-development/workbook-8/Samuel Sandwich Order",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f73d4e6b-a0e9-46e1-b26b-68742beb967a" name="Changes" comment="" />
+      <created>1717162153216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717162153216</updated>
+    </task>
+    <servers />
+  </component>
+</project>
